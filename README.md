@@ -20,8 +20,8 @@ After you've opened bitScan
 2. scale the image to your liking
 3. click on "start scan", press SPACE when you're ready.
 4. move your mouse around in the window, rotate the image with the "A" and "S" keys until the scan is done.
-5. save the image if you want. (keep in mind that the program will overwrite files with the same without warning).
-6. repeat!
+5. save the image if you want. *(keep in mind that the program will overwrite files with the same name without warning)*.
+6. rinse and repeat!
 
 ### notes on the Apple Silicon executable. 
 
