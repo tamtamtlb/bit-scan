@@ -1,4 +1,4 @@
-# bit-scan
+# BitScan - a virtual scanner
 BitScan lets you distort images to make them look like a glitched photo copy.
 
 ---
