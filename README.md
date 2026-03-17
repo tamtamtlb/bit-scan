@@ -9,7 +9,7 @@ The tool is inspired by the [slit-scan photography](https://en.wikipedia.org/wik
 
 <img src="example_images/orchid0.jpg" alt="ex0" width="200"/> <img src="example_images/orchid1.jpg" alt="ex1" width="200"/> <img src="example_images/orchid2.jpg" alt="ex2" width="200"/>
 
-*(some examples using an orchid. original image source: https://pinterest.com/pin/349380883608871216/)*
+*(some examples using an orchid. original image source: https://pin.it/1TdZG7RQK)*
 
 ## how to use
 
