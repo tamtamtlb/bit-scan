@@ -36,5 +36,13 @@ xattr -cr {adress to your executable}/bitScan.app
 
 (you can just write `xattr -cr `  and then drag and drop the bitScan.app file into your terminal.
 
+If you encounter any issues executing the file, please refer first to the [Exporting Applications](https://github.com/processing/processing4/wiki/Exporting-Applications#macos) wiki page of Processing.
+
+## License
+copyleft © 2026 **tamtamtlb**.  
+This project is **copylefted**: You are free to use, share, and modify this software as long as the resulting derivative works are also distributed under the **GNU GPLv3** license. 
+
+See the [LICENSE](LICENSE.md) file for the full text.
+
 
 
