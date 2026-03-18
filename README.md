@@ -23,6 +23,8 @@ After you've opened bitScan
 5. save the image if you want. *(keep in mind that the program will overwrite files with the same name without warning)*.
 6. rinse and repeat!
 
+![demo](example_images/demo.gif)
+
 ### notes on the Apple Silicon executable. 
 
 The apple silicon installation requires that you have [openJDK 17](https://openjdk.org/projects/jdk/17/) installed.
