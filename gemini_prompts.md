@@ -402,37 +402,10 @@ void restart(){
 Would you like me to show you how to add a "Saving..." text overlay to `case 4` so the user knows they shouldn't click anything else until the file is written?
 
 ## Prompt:
-void keyPressed(){
 
-  if (key == 'a'){
-
-    imgRotation += 0.05;
-
-    println("rotate");
-
-  }
-
-  if (key == 's'){
-
-    imgRotation -= 0.05;
-
-  }
-
-...
-
-void drawImg(PImage img, float transparency, int size){
-
-  tint(255, 255 \* (1 - transparency));
-
-  float ratio = (float) img.height / img.width;
-
-  rotate(PI \* imgRotation);
-
-  image(img, mouseX - size / 2, mouseY - size \* ratio /2, size, size \* ratio);
-
-  rotate(0);
-
-}
+```
+copy pasted code
+```
 
 this code should allow you to rotate the image, but it also rotates other text elements and it doesnt rotate at the center of the image. How do i fix this?
 
