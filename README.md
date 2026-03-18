@@ -42,7 +42,7 @@ If you encounter any issues executing the file, please refer first to the [Expor
 copyleft © 2026 **tamtamtlb**.  
 This project is **copylefted**: You are free to use, share, and modify this software as long as the resulting derivative works are also distributed under the **GNU GPLv3** license. 
 
-See the [LICENSE](LICENSE.md) file for the full text.
+See the [LICENSE](LICENSE) file for the full text.
 
 
 
