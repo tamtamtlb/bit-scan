@@ -1,5 +1,5 @@
 # BitScan - a virtual scanner
-BitScan lets you distort images to make them look like a glitched photo copy.
+BitScan is a virtual [scanography](https://en.wikipedia.org/wiki/Scanography) tool. It lets you distort images to make them look like a glitched photo copy.
 
 ---
 
